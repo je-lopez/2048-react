@@ -1,0 +1,28 @@
+#root {
+  margin: 0 auto;
+  max-width: 380px;
+}
+
+.App {
+  background-color: lightgray;
+  border: 5px solid darkgray;
+  justify-content: center;
+  margin: 0 auto;
+  width: max-content;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.col {
+  align-items: center;
+  border: 3px solid darkgray;
+  display: flex;
+  font-size: 45px;
+  font-weight: 800;
+  height: 90px;
+  justify-content: center;
+  width: 90px;
+}
