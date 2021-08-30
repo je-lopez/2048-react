@@ -1,2 +1,2 @@
 # 2048 - React
-React + hooks practice 
+React & hooks practice
